@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @landlight
 - 👀 I’m interested in soccer, coding, chess and learning something new
 - 🌱 I’m currently learning about kubernetes
-- 📫 How to reach me - this is a secret! but can add me line at landlight.
+- 📫 How to reach me - this is a secret! but you can add my line at `landlight`.
 
 <!---
 landlight/landlight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
